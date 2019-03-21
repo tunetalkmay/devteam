@@ -19,4 +19,4 @@ once it is done now its time to update the same files into Remove repository
 first we need to come the remote reporsitry
 
 #git remote add alias name "url"
-
+added one more line afrer creared commtie
